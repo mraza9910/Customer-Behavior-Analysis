@@ -82,8 +82,6 @@ The dashboard includes:
 
 👉 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTkyMjBmZmItNGQ4Yi00YWMxLWEyZTEtZTAwYWNkY2MxY2U1IiwidCI6ImZiYmY2YzYwLTAzNDQtNGMyOS05NDU5LTcyNTY4NTczOWIxOSIsImMiOjN9)**
 
-![Customer Behavior Dashboard](images/dashboard.png)
-
 ---
 
 ## Key Insights
