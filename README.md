@@ -128,11 +128,9 @@ Customer-Shopping-Behavior/
 │   └── SQL-Code.sql
 │
 ├── powerbi/
-│   └── Customer-Behavior-Dashboard.pbix
+│   └── click the link
 │
 ├── reports/
-│   ├── Business-Problem.pdf
-│   └── Customer-Shopping-Behavior-Analysis.pdf
-│
-└── images/
-    └── dashboard.png
+    ├── Business-Problem.pdf
+    └── Customer-Shopping-Behavior-Analysis.pdf
+
